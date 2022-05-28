@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-div{
+    background-color: pink;
+    height: 750px;
+    width: 100%;
+}
+.landing-page{
+    margin: 0 auto;
+    width: 95%;
+    height: 700px;
+    
+}
+.div1{
+    background-color: white;
+    width: 5%;
+    height: 690px;
+    position: absolute;
+    top: 30px; 
+}
+.bar{
+    width: 85px;
+    height: 60px;
+    background-color: blueviolet;
+}
+.fa-bars{
+    color: white;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+.navbar{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.navbar i{
+    padding: 16px;
+}
+.nav-footer i{
+    padding-top: 102px;
+    padding-left: 18px;
+    color: purple;
+}
+.link_img{
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+}
+
+.div2{
+    width: 40%;
+    position: absolute;
+    top: 8px;
+    left: 124px;
+}
+.div2 img{
+    height: 734px;
+    width: 677px;
+}
+.div3{
+    width: 50%;
+    height: 690px;
+    position: absolute;
+    top: 30px;
+    left: 800px;
+    background-color: white;
+}
+.div3 p{
+    margin: 32px;
+    font-size: 24px;
+    font-weight: lighter;
+}
+.services h1{
+    font-size: 30px;
+    margin: 32px;
+}
+.service-icons1 i{
+    margin-left: 32px;
+}
+.fa-rocket{
+    padding-left: 350px;
+}
+
+.container{
+    margin-top: 20px;
+}
+.row h1{
+    margin-left: 22px;
+}
+.row p{
+    margin-left: 22px;
+    font-weight: lighter;
+    font-size: 24px;
+}
+.service-icons2 i{
+    margin-left: 34px;
+}
+.fa-shield{
+    padding-left: 350px;
+}
